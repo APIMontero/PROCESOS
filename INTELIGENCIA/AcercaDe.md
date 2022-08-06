@@ -28,7 +28,7 @@
 
 ### Código(en [app.js](./app.js) )
 
-``` [javascript]
+``` javascript
 function repetidos(nombre) {
     let nuevoNombre = nombre.toString().trim().toUpperCase();
     let reps = [];
